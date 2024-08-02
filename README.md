@@ -12,7 +12,7 @@
             <td>
                 <h1>Rishab Ghatge</h1>
                 <p>I am currently pursuing Btech from SRM institute of science and technology</p>
-                <p>I am also intrested in learning Web devlopement</p>
+                <p>I am also intrested in learning Web devlopment</p>
             </td>
         </tr>
     </table>
