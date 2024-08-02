@@ -99,7 +99,7 @@
     <h2>contact info</h2>
     <p>Name:Rishab Ghatge</p>
     <p>Email id:Rishab@gmail.com</p>
-    <p>Conatact number:0000000</p>
+    <p>Contact number:0000000</p>
     <hr>
 
     <header>For other queries</header>
